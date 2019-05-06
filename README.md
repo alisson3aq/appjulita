@@ -1,0 +1,2 @@
+# appjulita
+Desenvolver uma aplicação mobile nas plataformas Android e IOS que facilite as interações entre a Personal e o Cliente onde as orientações de exercícios serão inseridas através da plataforma web e acessada no smartphone através do aplicativo ora proposto.   Todo o desenvolvimento do cliente ficará gravado no sistema, podendo ser acesso em forma de relatório, tanto pela Personal, como pelo Cliente, observado a evolução e chegada ao objetivo previamente indicado.  
